@@ -14,7 +14,33 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-analog-vite/lib-a": ["libs/lib-a/src/index.ts"],
+      "@nx-analog-vite/lib-b": ["libs/lib-b/src/index.ts"],
+      "@nx-analog-vite/lib-c": ["libs/lib-c/src/index.ts"],
+      "@nx-analog-vite/lib-e": ["libs/lib-e/src/index.ts"],
+      "@nx-analog-vite/lib-f": ["libs/lib-f/src/index.ts"],
+      "@nx-analog-vite/lib-g": ["libs/lib-g/src/index.ts"],
+      "@nx-analog-vite/lib-h": ["libs/lib-h/src/index.ts"],
+      "@nx-analog-vite/lib-i": ["libs/lib-i/src/index.ts"],
+      "@nx-analog-vite/lib-j": ["libs/lib-j/src/index.ts"],
+      "@nx-analog-vite/lib-k": ["libs/lib-k/src/index.ts"],
+      "@nx-analog-vite/lib-l": ["libs/lib-l/src/index.ts"],
+      "@nx-analog-vite/lib-m": ["libs/lib-m/src/index.ts"],
+      "@nx-analog-vite/lib-n": ["libs/lib-n/src/index.ts"],
+      "@nx-analog-vite/lib-o": ["libs/lib-o/src/index.ts"],
+      "@nx-analog-vite/lib-p": ["libs/lib-p/src/index.ts"],
+      "@nx-analog-vite/lib-q": ["libs/lib-q/src/index.ts"],
+      "@nx-analog-vite/lib-r": ["libs/lib-r/src/index.ts"],
+      "@nx-analog-vite/lib-s": ["libs/lib-s/src/index.ts"],
+      "@nx-analog-vite/lib-t": ["libs/lib-t/src/index.ts"],
+      "@nx-analog-vite/lib-u": ["libs/lib-u/src/index.ts"],
+      "@nx-analog-vite/lib-v": ["libs/lib-v/src/index.ts"],
+      "@nx-analog-vite/lib-w": ["libs/lib-w/src/index.ts"],
+      "@nx-analog-vite/lib-x": ["libs/lib-x/src/index.ts"],
+      "@nx-analog-vite/lib-y": ["libs/lib-y/src/index.ts"],
+      "@nx-analog-vite/lib-z": ["libs/lib-z/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
